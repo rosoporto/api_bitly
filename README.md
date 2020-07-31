@@ -25,6 +25,20 @@ Python3 должен быть уже установлен. Затем испол
 pip install -r requirements.txt
 ```
 
+### Как запустить
+
+Сгенерировать короткую ссылку:
+
+```python
+$ python3 main.py https://siti.ru
+```
+
+Подсчет кликов
+
+```python
+$ python3 main.py https://bit.ly/2Wy1hCB
+```
+
 ### Цель проекта
 
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org).
