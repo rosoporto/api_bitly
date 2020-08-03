@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Сгенерировать короткую ссылку:
 
 ```python
-$ python3 main.py https://siti.ru
+$ python3 main.py https://site.ru
 ```
 
 Подсчет кликов
